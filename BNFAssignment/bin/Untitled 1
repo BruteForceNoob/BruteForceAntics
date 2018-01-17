@@ -1,0 +1,10 @@
+//This program calculates the area of rectangle
+PRINTLN "Calculate the area of rectangle"
+INTEGER L, W, AREA
+PRINT "Enter length and width:"
+//both value in one input separated by spaces
+INPUT Lacd
+PRINT "Area is "
+LET AREA = L * W
+PRINTLN AREA
+END
